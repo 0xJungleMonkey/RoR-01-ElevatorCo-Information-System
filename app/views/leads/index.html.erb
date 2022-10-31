@@ -1,3 +1,4 @@
+<p style="color: green"><%= notice %></p>
 <div id="wrapper">
 
  <%= render "slides"%>
@@ -8,13 +9,12 @@
 
  <%= render "news"%>
  <%= render "clients"%>
- <p style="color: green"><%= notice %></p>
-
+ 
 <h1>Leads</h1>
 
 <div id="leads">
   <% @leads.each do |lead| %>
-    <%= render leads/lead %>
+    <%= render lead %>
     <p>
       <%= link_to "Show this lead", lead %>
     </p>
@@ -22,6 +22,3 @@
 </div>
 
 <%= link_to "New lead", new_lead_path %>
-
- 
-</div>

@@ -1,0 +1,97 @@
+					# <div class="img-hover">
+					# 	<a href="https://elevatortoday.com/2021/11/19/schindler-increasing-efficiency/">
+					# 		<%= image_tag "AdobeStock_122227340.jpeg" 
+					# 	</a>
+
+					# 	<h4 class="text-left mt-20"><a href="https://elevatortoday.com/2021/11/19/schindler-increasing-efficiency/">How does Elevators companys increase efficiency?</a></h4><br>
+					# 	<p class="text-left">What if robot technology could help us further increase efficiency safety and even diversity on construction sites while allowing elevator technicians to focus-on what they do best?</p>
+					# 	<ul class="text-left fs-12 list-inline list-separator">
+					# 		<li>
+					# 			<i class="fa fa-calendar"></i>
+
+					# 			November 19, 2021
+					# 		</li>
+					# 		<li>
+								
+					# 				<i class="fa fa-comments"></i>
+					# 				Schindler.com
+								
+					# 		</li>
+					# 	</ul>
+					# </div>
+					# <div class="img-hover">
+					# 	<a href="https://www.businesswire.com/news/home/20220913005679/en/Global-IoT-in-Elevators-Markets-Report-2022-2028-Featuring-Major-Players---OTIS-Schindler-KONE-Hyundai-Elevator-and-Fujitec---ResearchAndMarkets.com"">
+					# 		<%= image_tag "AdobeStock_73868131.jpeg" 
+					# 	</a>
+
+					# 	<h4 class="text-left mt-20"><a href="https://www.businesswire.com/news/home/20220913005679/en/Global-IoT-in-Elevators-Markets-Report-2022-2028-Featuring-Major-Players---OTIS-Schindler-KONE-Hyundai-Elevator-and-Fujitec---ResearchAndMarkets.com">Global IoT in Elevators Markets Report 2022-2028 Featuring Major Players </a></h4>
+					# 	<p class="text-left">Migration of people from rural to urban has made many developing and developed economies governments to invest in new infrastructure projects. Therefore, in the coming years, rising urbanization will increase the demand for IoT in elevators.</p>
+					# 	<ul class="text-left fs-12 list-inline list-separator">
+					# 		<li>
+					# 			<i class="fa fa-calendar"></i>
+					# 			September 13, 2022 
+					# 		</li>
+					# 		<li>
+								
+					# 				<i class="fa fa-comments"></i>
+					# 				ResearchAndMarkets.com
+					# 		</li>
+					# 	</ul>
+					# </div>
+					# <div class="img-hover">
+					# 	<a href="https://jamaica-gleaner.com/article/news/20220921/spirits-lifted-princess-margaret-elevator-back-service">
+					# 		<%= image_tag AdobeStock_146216308.jpeg" 
+					# 	</a>
+
+					# 	<h4 class="text-left mt-20"><a href="https://jamaica-gleaner.com/article/news/20220921/spirits-lifted-princess-margaret-elevator-back-service">Spirits lifted as Princess Margaret elevator back in service</a></h4>
+					# 	<p class="text-left">Orderlies wilting under the strain of lifting patients up flights of stairs because the sole elevator at Princess Margaret Hospital was out of service in the summer are now rejoicing after more than $1 million was spent for its repair.</p>
+					# 	<ul class="text-left fs-12 list-inline list-separator">
+					# 		<li>
+					# 			<i class="fa fa-calendar"></i>
+					# 			September 20, 2022 
+					# 		</li>
+					# 		<li>
+								
+					# 				<i class="fa fa-comments"></i>
+					# 				American Elevator Group
+					# 		</li>
+					# 	</ul>
+					# </div>
+					# <div class="img-hover">
+					# 	<a href="https://www.businesswire.com/news/home/20220901005556/en/UAE-Elevator-Escalator-Maintenance-Repair-Services-Market-Report-2022-Stringent-Government-Regulations-the-Booming-Construction-Industry-Driving-Growth---ResearchAndMarkets.com">
+					# 		<%= image_tag "AdobeStock_124493370.jpeg" 
+					# 	</a>
+					# 	<h4 class="text-left mt-20"><a href="https://www.businesswire.com/news/home/20220901005556/en/UAE-Elevator-Escalator-Maintenance-Repair-Services-Market-Report-2022-Stringent-Government-Regulations-the-Booming-Construction-Industry-Driving-Growth---ResearchAndMarkets.com">Elevator Maintenance & Repair Services Market Report 2022</a></h4>
+					# 	<p class="text-left">UAE Elevator & Escalator Maintenance & Repair Services Market Report 2022: Stringent Government Regulations & the Booming Construction Industry Driving Growth </p>
+					# 	<ul class="text-left fs-12 list-inline list-separator">
+					# 		<li>
+					# 			<i class="fa fa-calendar"></i>
+					# 			September 01, 2022
+					# 		</li>
+					# 		<li>
+								
+					# 				<i class="fa fa-comments"></i>
+					# 			ResearchAndMarkets.com
+					# 		</li>
+					# 	</ul>
+					# </div>
+					# <div class="img-hover">
+					# 	<a href="https://www.businesswire.com/news/home/20220811005499/en/Global-Elevators-and-Escalators-Market-Report-2022-Smart-Elevators-Escalators-Come-to-the-Fore-Offering-New-Level-of-Performance---ResearchAndMarkets.coms">
+					# 		<%= image_tag "New_childrens_hospital_helsinki_elevator_interior_01.jpeg"
+								
+					# 	</a>
+					# 	<h4 class="text-left mt-20"><a href="https://www.businesswire.com/news/home/20220811005499/en/Global-Elevators-and-Escalators-Market-Report-2022-Smart-Elevators-Escalators-Come-to-the-Fore-Offering-New-Level-of-Performance---ResearchAndMarkets.coms">Global Elevators and Escalators Market Report 2022</a></h4>
+					# 	<p class="text-left"> Global Elevators and Escalators Market Report 2022: Smart Elevators & Escalators Come to the Fore Offering New Level of Performance.Global Elevators and Escalators Market to Reach $77.2 Billion by 2026</p>
+					# 	<ul class="text-left fs-12 list-inline list-separator">
+					# 		<li>
+					# 			<i class="fa fa-calendar"></i>
+					# 			August 11, 2022 09:54 AM
+					# 		</li>
+					# 		<li>
+								
+					# 				<i class="fa fa-comments"></i>
+					# 				ResearchAndMarkets.com
+					# 		</li>
+					# 	</ul>
+					# </div>
+

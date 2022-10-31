@@ -1,0 +1,36 @@
+<!-- Testimonials -->
+		<section class="section-xs dark">
+			<div class="container">
+
+				<div class="owl-carousel text-center owl-testimonial m-0"
+					data-plugin-options='{"singleItem": true, "autoPlay": 3500, "navigation": false, "pagination": true, "transitionStyle":"fade"}'>
+					<div class="testimonial">
+						<figure>
+							<%= image_tag  "image0.jpeg", {class:"rounded"}%>
+						</figure>
+						<div class="testimonial-content p-0">
+							<!-- <p class="lead">Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero.</p> -->
+							<cite>
+								Brian Peret
+								<span>Company CEO</span>
+							</cite>
+						</div>
+					</div>
+					<div class="testimonial">
+						<figure>
+							<%= image_tag "IMG_0968 Large.jpeg", {class:"rounded"}%>
+						</figure>
+						<div class="testimonial-content p-0">
+							<!-- <p class="lead">Quod necessitatibus quis expedita harum provident eos obcaecati id culpa.</p> -->
+							<cite>
+								Xinqi Davis
+								<span> Employee of the month</span>
+							</cite>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+		<!-- /Testimonials -->
+		<%= javascript_include_tag "owl.carousel.min" %>
