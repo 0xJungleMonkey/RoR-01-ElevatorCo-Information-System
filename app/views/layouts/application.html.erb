@@ -5,12 +5,16 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
-
+<%= render "navbar" %>
     <%= stylesheet_link_tag "application", "data-turbo-track": "reload" %>
-    <%= javascript_importmap_tags %>
+    <%= stylesheet_link_tag "/node_modules/owl.carousel/dist/assets/owl.carousel.min.css"%>
+
+      <%= javascript_include_tag  %>  
   </head>
 
   <body>
+ 
     <%= yield %>
+    <%= render "footer"%>
   </body>
 </html>

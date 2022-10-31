@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+1. new application
+2. import bootstrap 
+https://github.com/twbs/bootstrap-rubygem
+3.navbar
+https://getbootstrap.com/docs/5.2/components/navbar/#how-it-works

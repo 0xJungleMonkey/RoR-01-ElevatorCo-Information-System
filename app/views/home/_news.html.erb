@@ -1,0 +1,54 @@
+<!-- News -->
+		<section id="news">
+			<div class="container">
+
+				<div class="heading-title heading-dotted text-center">
+					<h2>Recent News</h2>
+				</div>
+
+				<!-- 
+						controlls-over		= navigation buttons over the image 
+						buttons-autohide 	= navigation buttons visible on mouse hover only
+						
+						data-plugin-options:
+							"singleItem": true
+							"autoPlay": true (or ms. eg: 4000)
+							"navigation": true
+							"pagination": true
+							"items": "4"
+
+						owl-carousel item paddings
+							.owl-padding-0
+							.owl-padding-3
+							.owl-padding-6
+							.owl-padding-10
+							.owl-padding-15
+							.owl-padding-20
+					-->
+				<div class="owl-carousel owl-padding-10 buttons-autohide controlls-over"
+					data-plugin-options='{"singleItem": false, "items":"4", "autoPlay": 4000, "navigation": true, "pagination": false}'>
+					<div class="img-hover">
+						<a href="assets/images/rocketelevators/American Elevator Group Report Highlights How Female Workforce Represents Opportunity to Meet Ongoing Industry Labor Shortage.html">
+							<%= image_tag "AdobeStock_33298664.jpeg"%>
+						</a>
+
+						<h4 class="text-left mt-20"><a
+								href="assets/images/rocketelevators/American Elevator Group Report Highlights How Female Workforce Represents Opportunity to Meet Ongoing Industry Labor Shortage.html">How
+								Female Workforce Represents Opportunity to Meet Ongoing Industry Labor Shortage</a></h4>
+						<p class="text-left">The Untapped Potential of Women in the Elevator Industry, a comprehensive,
+							first of its kind overview of womens experiences in the elevator field.</p>
+						
+					</div>
+
+				</div>
+
+			</div>
+		</section>
+		<!-- /News -->
+		<script type="text/javascript">
+$(".owl-carousel").owlCarousel();
+</script>
+		
+
+		<%= javascript_include_tag "jquery-3.3.1.min.js" %>
+		<%= javascript_include_tag "owl.carousel.min.js" %>
